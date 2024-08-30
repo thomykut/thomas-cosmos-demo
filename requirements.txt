@@ -1,4 +1,4 @@
-astronomer-cosmos>=1.6.0
+astronomer-cosmos~=1.6.0
 requests~=2.32.3
 pendulum~=3.0.0
 pytest~=8.3.2
